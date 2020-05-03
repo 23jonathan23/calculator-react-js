@@ -7,3 +7,4 @@ Calculadora inspirada na calculadora nativa do MacOS, foi desenvolvida em React.
 ## Demais tecnologias usadas:
 - HTML
 - CSS
+- Javascript
